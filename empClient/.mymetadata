@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="empClient"
+  id="myeclipse.1332583776796"
+  context-root="/empClient"
+  j2ee-spec="5.0"
+  archive="empClient.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

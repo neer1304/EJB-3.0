@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="EJB"
+  name="messageSaver"
+  id="myeclipse.1330768866906"
+  j2ee-spec="5.0"
+  archive="messageSaver.jar" />
+
